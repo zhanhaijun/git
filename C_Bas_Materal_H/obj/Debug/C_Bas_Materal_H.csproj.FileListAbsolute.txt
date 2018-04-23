@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Infolight\EEP2012\EEPNetClient\Solution1\C_Bas_Materal_H.dll
+C:\Program Files (x86)\Infolight\EEP2012\EEPNetClient\Solution1\C_Bas_Materal_H.pdb
+C:\Program Files (x86)\Infolight\EEP2012\Solution1\C_Bas_Materal_H\obj\Debug\C_Bas_Materal_H.Properties.Resources.resources
+C:\Program Files (x86)\Infolight\EEP2012\Solution1\C_Bas_Materal_H\obj\Debug\C_Bas_Materal_H.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Infolight\EEP2012\Solution1\C_Bas_Materal_H\obj\Debug\C_Bas_Materal_H.dll
+C:\Program Files (x86)\Infolight\EEP2012\Solution1\C_Bas_Materal_H\obj\Debug\C_Bas_Materal_H.pdb
+C:\Program Files (x86)\Infolight\EEP2012\Solution1\C_Bas_Materal_H\obj\Debug\C_Bas_Materal_H.Form1.resources
+C:\Program Files (x86)\Infolight\EEP2012\EEPNetFLClient\Solution1\C_Bas_Materal_H.dll
+C:\Program Files (x86)\Infolight\EEP2012\EEPNetFLClient\Solution1\C_Bas_Materal_H.pdb
+C:\Program Files (x86)\Infolight\EEP2012\Solution1\C_Bas_Materal_H\obj\Debug\C_Bas_Materal_H.csprojResolveAssemblyReference.cache
